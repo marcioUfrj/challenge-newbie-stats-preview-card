@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot/desktop.jpg)
-![](/screenshot/mobile.jpg)
+![](./screenshot/desktop.jpg)
+![](./screenshot/mobile.jpg)
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Fronted Mentor](https://www.frontendmentor.io/solutions/newbie-stats-preview-card-component-7tC8t1Vwg)
 - Live Site URL: [Git Pages](https://marcioufrj.github.io/challenge-newbie-stats-preview-card/)
 
 ## My process
