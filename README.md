@@ -15,8 +15,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot/desktop.jpg)
+![](screenshot/mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [Git Pages](https://marcioufrj.github.io/challenge-newbie-stats-preview-card/)
 
 ## My process
 
@@ -44,22 +43,20 @@ Users should be able to:
 - CSS Grid
 - CSS @media
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
-
-
+- How to use flexbox and css grid.
+- How height and width works between parent div and children div, really nice.
 
 ### Continued development
 
-
+I wish to learn more about sizing and positioning div in order to be faster to code.
 
 ### Useful resources
 
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Figma](figma.com/) - This is an amazing tool to calculate the aproximate size of margin, padding, height and widths.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Marcio Teixeira](https://www.frontendmentor.io/profile/marcioUfrj)
